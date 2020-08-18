@@ -1,0 +1,12 @@
+Reaction Formula,Relative Flux,Reaction Name
+Glucose + PEP <=> G6P + PYR,2,Pts
+G6P <=> F6P,2,Pgi
+ATP + F6P <=> ADP + F16BP,2,Pfk
+F16BP <=> DAHP + GADP,2,Fba
+DAHP <=> GADP,2,Tpi
+NADP + GADP + H2O <=> NADPH + 3PG,4,Gapn
+3PG <=> 2PG,4,Pgam
+2PG <=> PEP + H2O,4,Eno
+ADP + PEP <=> PYR + ATP,2,Pyk
+PYR + CoA + NAD <=> AcCoA + CO2 + NADH,4,Pdh
+4 AcCoA + 2 NADPH + H2O <=>  4 CoA + 2 NADP + PHB,1,PhaABC
